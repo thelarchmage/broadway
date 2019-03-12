@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+
+}
+
+div.home, div.design {
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+a {
+  color: white;
+}
+
+footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
